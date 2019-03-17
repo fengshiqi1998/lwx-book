@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aluaead/lwx-book/issues"
   },
-  "homepage": "https://github.com/Aluaead/lwx-book#readme"
+  "homepage": "https://github.com/Aluaead/lwx-book#readme",
   "devDependencies": {
       "gitbook-cli":"^2.3.2"        
-   }
+  }
 }
