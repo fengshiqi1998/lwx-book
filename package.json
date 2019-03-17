@@ -1,7 +1,7 @@
 {
   "name": "lwx-book",
   "version": "1.0.0",
-  "description": "个人书籍",
+  "description": "个人的书籍",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Aluaead/lwx-book.git"
   },
-  "author": "Aluaead",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Aluaead/lwx-book/issues"
   },
-  "homepage": "https://github.com/Aluaead/lwx-book#readme",
+  "homepage": "https://github.com/Aluaead/lwx-book#readme"
   "devDependencies": {
-    "gitbook-cli":"^2.3.2"
-  }
+      "gitbook-cli":"^2.3.2"        
+   }
 }
